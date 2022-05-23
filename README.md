@@ -8,6 +8,10 @@ they use, analyzing and visualizing data using dashboards.
 
 Looking for a job as a Junior Data Analyst.
 
+Check my Tableau projects on https://public.tableau.com/app/profile/gianluca.silvestri
+
+Check my online Portfolio on https://gian0711.github.io/GianlucaSilvestri.github.io/
+
 How to reach me? 
 gianluca.silvestri@outlook.it
 
